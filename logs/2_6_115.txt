@@ -1,0 +1,6 @@
+Sat Mar 07 16:33:38 EST 2015|Error log test: Test for echo
+Sat Mar 07 16:34:18 EST 2015|Error log test: Test for echo
+Sat Mar 07 16:35:22 EST 2015|Error log test: Test for echo
+Sat Mar 07 16:35:52 EST 2015|Error log test: Test for echo
+Sat Mar 07 16:36:28 EST 2015|Error log test: Fuckity Fuck Fuck
+Sat Mar 07 16:51:43 EST 2015|Login Successful.
